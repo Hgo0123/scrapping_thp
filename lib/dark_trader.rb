@@ -36,7 +36,7 @@ def scrapper
 		   a << hash
 		
 		end	
-		#p a
+		p a
 end
 
-	#scrapper
+	scrapper

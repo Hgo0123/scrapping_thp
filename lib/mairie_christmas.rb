@@ -53,7 +53,7 @@ def perform
 		   a << hash
 		
 		end	
-		puts a
+		p a
 end
 perform
 

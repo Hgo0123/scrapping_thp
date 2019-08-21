@@ -16,7 +16,7 @@ def scrapp_all_name
  end
 
 scrapp_all_name
-
+=begin
 def scrapp_email
 
 	for handle in scrapp_all_name
